@@ -1,12 +1,15 @@
 
 import './App.css';
-import Form from './Components/Form/Form';
+import PostApi from './Components/PostApi/PostApi';
+
+// import Date from './Components/Date/Date';
+// import Form from './Components/Form/Form';
 // import Search from './Components/Search-Functionalities/Search';
 
 function App() {
   return (
   // <Search/>
-  <Form/>
+ <PostApi/>
   );
 }
 
